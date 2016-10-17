@@ -1,0 +1,19 @@
+{
+  "name": "eat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.22.0",
+    "mkpath": "^1.0.0",
+    "node-webcrawler": "^0.7.5",
+    "request": "^2.75.0",
+    "url": "^0.11.0"
+  }
+}
